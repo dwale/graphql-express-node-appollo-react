@@ -1,2 +1,3 @@
 node_modules
 server/sampleData.js
+.env
